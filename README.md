@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security and Software Engineering.
 - 🌱 I’m currently doing the Google Cybersecurity Certification.
 - 💞️ I’m looking to collaborate on any Vue JS, Golang or Cybersecurity projects.
-- 📫Reach me on Linkedin <a href="https://www.linkedin.com/in/eric-junior-n-s-696459162/">
+- 📫Reach me on <a style="margin-top: 10px;" href="https://www.linkedin.com/in/eric-junior-n-s-696459162/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 ---
