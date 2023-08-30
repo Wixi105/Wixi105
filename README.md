@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing the Google Cybersecurity Certification.
 - 💞️ I’m looking to collaborate on any Vue JS, Golang or Cybersecurity projects.
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <p style="margin-bottom: 10px;">📫Reach me on</p>
+  <p style="margin-bottom: 10px;">Let's connect &#x1F604;</p>
   <a href="https://www.linkedin.com/in/eric-junior-n-s-696459162/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
