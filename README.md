@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wixi105
+- 👋 Hi, I’m Eric Junior.
 - 👀 I’m interested in Cyber Security and Software Engineering.
 - 🌱 I’m currently doing the Google Cybersecurity Certification.
 - 💞️ I’m looking to collaborate on any Vue JS, Golang or Cybersecurity projects.
