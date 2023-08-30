@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @Wixi105
-- 👀 I’m interested in Cyber Security and Web Development
-- 🌱 I’m currently learning Golang, and taking a course in Ethical Hacking from TCM.
-- 💞️ I’m looking to collaborate on any Vue JS, Golang or Java projects.
+- 👀 I’m interested in Cyber Security and Software Engineering.
+- 🌱 I’m currently doing the Google Cybersecurity Certification.
+- 💞️ I’m looking to collaborate on any Vue JS, Golang or Cybersecurity projects.
 - 📫Reach me on Linkedin @Eric Junior Nyarko-Sampson, 
 ---
 
 ### :fire: Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Wixi105
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wixi105&theme=github-dark-blue)](https://git.io/streak-stats)
 
